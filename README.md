@@ -16,7 +16,7 @@ To run, type:
 $ docker-compose up
 ```
 
-To test:
+To test, type:
 
 ```
 $ curl http://localhost:8000/

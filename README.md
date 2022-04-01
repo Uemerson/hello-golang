@@ -16,8 +16,9 @@ To run, type:
 $ docker-compose up
 ```
 
-To test create a GET request on endpoint:
+To test:
 
 ```
-http://localhost:8000/
+$ curl http://localhost:8000/
+{"Detail":"Hello Go! 😎"}
 ```

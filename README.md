@@ -1,2 +1,17 @@
 # About this repository
-A simple api to return Hello World build with Golang
+
+A simple API to return Hello Go!
+
+Built with Golang, docker-compose and ❤
+
+To build, type:
+
+```
+$ docker-compose build
+```
+
+To run, type:
+
+```
+$ docker-compose up
+```
